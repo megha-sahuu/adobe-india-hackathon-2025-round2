@@ -1,29 +1,14 @@
 {
-  "title": "RFP: R",
+  "title": "RFP: R RFP: Re e equest f quest f quest fo o or Pr r Pr r Proposal oposal oposal RFP: R RFP: R e quest f o r Pr oposal",
   "outline": [
     {
-      "level": "H3",
-      "text": "Ontario’s Libraries",
-      "page": 1
-    },
-    {
-      "level": "H3",
-      "text": "Working Together",
+      "level": "H1",
+      "text": "Ontario’s Libraries Working T ogether",
       "page": 1
     },
     {
       "level": "H1",
-      "text": "To Present a Proposal for Developing",
-      "page": 1
-    },
-    {
-      "level": "H1",
-      "text": "the Business Plan for the Ontario",
-      "page": 1
-    },
-    {
-      "level": "H1",
-      "text": "Digital Library",
+      "text": "T o Present a Proposal for Developing the Business Plan for the Ontario Digital Library",
       "page": 1
     },
     {
@@ -38,12 +23,7 @@
     },
     {
       "level": "H3",
-      "text": "A Critical Component for Implementing Ontario’s Road Map to",
-      "page": 2
-    },
-    {
-      "level": "H3",
-      "text": "Prosperity Strategy",
+      "text": "A Critical Component for Implementing Ontario’s Road Map to Prosperity Strategy",
       "page": 2
     }
   ]
