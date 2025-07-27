@@ -3,7 +3,7 @@
 ## Overview
 This project solves the **Round 1A: PDF Processing** challenge from the Adobe India Hackathon 2025. This tool extracts a structured outline (title + section headings) from academic or business PDFs. Headings are inferred from font sizes, positions, and page layout.
 
-## 🚀 Problem Statement
+## Problem Statement
 
 Given an academic or business PDF file, extract:
 
@@ -13,7 +13,7 @@ Given an academic or business PDF file, extract:
   - `text` content
   - `page` number
 
-## 🧠 Approach
+## Approach
 
 1. **Text Extraction**: Uses `pdfminer.six` to extract layout-preserved text and metadata like font size, position, and boldness.
 2. **Heuristic Rules**:
@@ -37,7 +37,7 @@ Given an academic or business PDF file, extract:
 ---
 
 
-## 📦 Folder Structure
+## Folder Structure
 ├── process_pdfs.py # Main script
 ├── requirements.txt # Required packages
 ├── Dockerfile # For containerized execution
