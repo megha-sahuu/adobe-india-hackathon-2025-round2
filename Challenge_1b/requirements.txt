@@ -1,0 +1,5 @@
+pdfplumber
+scikit-learn
+nltk
+python-dateutil
+tqdm 
